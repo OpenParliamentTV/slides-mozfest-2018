@@ -1,2 +1,2 @@
-# slides-mozfest-2018
-Opening Up Parliamentary Debate Videos using Transcripts and Open Data
+# Slides #MozFest 2018
+Session: Opening Up Parliamentary Debate Videos using Transcripts and Open Data
